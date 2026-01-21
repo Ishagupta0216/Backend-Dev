@@ -1,0 +1,13 @@
+
+Time:function timeStamp() { [native code] }
+free Memory: 0.97967529296875
+uptime:948.1618272222223
+userinfo:gishi
+Time:function timeStamp() { [native code] }
+free Memory: 0.97967529296875
+uptime:948.1618272222223
+userinfo:gishi
+Time:function timeStamp() { [native code] }
+free Memory: 0.97967529296875
+uptime:948.1618272222223
+userinfo:gishi
